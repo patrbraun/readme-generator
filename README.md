@@ -1,5 +1,5 @@
 # Readme Generator
-## Description
+## Description ![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)
 
 ## Table of Contents
 
@@ -9,7 +9,8 @@
 ## Usage
   -node index.js
 
-## License
+## License ![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)
+  * https://opensource.org/licenses/IPL-1.0
 
 ## Contributing
 
