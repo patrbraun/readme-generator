@@ -49,31 +49,43 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  return `## License ${renderLicenseBadge(license)}
+  return `${renderLicenseBadge(license)}
   * ${renderLicenseLink(license)}`;
 };
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
   return `# ${answers.title}
-## Description ${renderLicenseBadge(answers.license)}
+## Description 
+${renderLicenseBadge(answers.license)}
+  * ${answers.description}
 
 ## Table of Contents
+  - [Installation](##installation)
+  - [Usage](##usage)
+  - [License](##license)
+  - [Contributing](##contributing)
+  - [Tests](##tests)
+  - [Questions](##questions)
 
 ## Installation
-  -npm install
+  -${answers.installation}
 
 ## Usage
-  -node index.js
+  -${answers.usage}
 
+## License 
 ${renderLicenseSection(answers.license)}
 
 ## Contributing
+  - ${answers.contributing}
 
 ## Tests
+  - ${answers.tests}
 
 ## Questions
   * Username: ${answers.github}
+    * Github: https://github.com/${answers.github}
   * Email: ${answers.email}`;
 };
 

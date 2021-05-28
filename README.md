@@ -1,21 +1,33 @@
 # Readme Generator
-## Description ![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)
+## Description 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  * Generates a readme from user input.
 
 ## Table of Contents
+  - [Installation](##installation)
+  - [Usage](##usage)
+  - [License](##license)
+  - [Contributing](##contributing)
+  - [Tests](##tests)
+  - [Questions](##questions)
 
 ## Installation
-  -npm install
+  -npm i
 
 ## Usage
   -node index.js
 
-## License ![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)
-  * https://opensource.org/licenses/IPL-1.0
+## License 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  * https://opensource.org/licenses/MIT
 
 ## Contributing
+  - Contributions
 
 ## Tests
+  - Testing
 
 ## Questions
   * Username: patrbraun
+    * Github: https://github.com/patrbraun
   * Email: prbraun@protonmail.com
