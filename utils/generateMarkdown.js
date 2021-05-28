@@ -71,6 +71,8 @@ function generateMarkdown(answers) {
 
 ## Usage
   -${answers.usage}
+  
+  ![](./assets/images/usage.gif)
 
 ## License${renderLicenseSection(answers.license)}
 

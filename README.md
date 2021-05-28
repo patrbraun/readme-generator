@@ -1,5 +1,6 @@
 # Readme Generator
 ## Description
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   * Generates a readme from user input.
 
 ## Table of Contents
@@ -14,17 +15,21 @@
   -npm i
 
 ## Usage
-  -node index.js
+  -node index
+  
+  ![](./assets/images/usage.gif)
 
 ## License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  * https://opensource.org/licenses/MIT
 
 ## Contributing
-  - Contributions
+  - Contribute to it.
 
 ## Tests
-  - Testing
+  - Test it.
 
 ## Questions
   * Username: patrbraun
     * Github: https://github.com/patrbraun
-  * Email: prbraun@protonmail.com
+  * Email: example@email.com
