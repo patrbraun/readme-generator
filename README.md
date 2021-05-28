@@ -1,6 +1,5 @@
 # Readme Generator
-## Description 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Description
   * Generates a readme from user input.
 
 ## Table of Contents
@@ -17,9 +16,7 @@
 ## Usage
   -node index.js
 
-## License 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  * https://opensource.org/licenses/MIT
+## License
 
 ## Contributing
   - Contributions
